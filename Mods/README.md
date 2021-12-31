@@ -11,7 +11,7 @@ Update the table below with information about your mod:
 - A title and link to your sub-folder
 - A few word description of your mod
 
-like so:
+like this:
 `| User | [Mod Title](link) | Description |`
 
 ---
