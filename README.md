@@ -20,7 +20,7 @@ The BOM is currently under development and will be released here once finished.
 
 
 ### User Mods
-There are several user mod STLs in the [usermods](https://github.com/armourcraft/Teensy/tree/master/usermods) directory.
+There are several user mod STLs in the [Mods](https://github.com/armourcraft/Teensy/tree/main/Mods) directory.
 
 
 
