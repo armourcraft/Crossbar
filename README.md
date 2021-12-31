@@ -34,13 +34,13 @@ Warming! Not all 2040 rails are made the same. If you source 2040 rails that hav
 ### BOM
 The BOM is currently under development and will be released here once finished.
 
-### User Mods
+## User Mods
 There are several user mod STLs in the [Mods](https://github.com/armourcraft/Teensy/tree/main/Mods) directory.
 
-### Contributers
+## Contributers
 If you would like to contribute to the development of this project, please let me know. I'm no perfessional engineer, so I could use all the help I can get.
 
-#### License & Copywrite
+## License & Copywrite
 The above information is provided under GNU GPLv3. More information can be found in the License file.
 
 Copywrite © 2021 Corey Blake, Armour Craft LLC
