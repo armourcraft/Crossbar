@@ -2,7 +2,7 @@
 
 This is a repository of community user mods for Teensy. All mods are welcomed.
 
-Reminder! Please be sure to update this README when uploading your new mod!
+R‌EMINDER! Please be sure to update this README when uploading your new mod!
 
 ## Table structure
 
