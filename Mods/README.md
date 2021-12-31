@@ -1,8 +1,8 @@
 # Teensy User Mods
 
-Printer mods for Teensy
+This is a repository of community user mods for Teensy. All mods are welcomed.
 
-Remember to update this README when uploading your new mod!
+Reminder! Please be sure to update this README when uploading your new mod!
 
 ## Table structure
 
