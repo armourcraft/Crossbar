@@ -7,27 +7,27 @@ The Teensy is a microscaled cantilever 3D printer with a build volume just big e
 This printer can be run on 24V using the recommended BTT SKR Mini E3 v3, or it can be run on 12V using an old trusty Ramps 1.4. Either way, it will perform great. It's really up to you which direction you want to go.
 
 ## Features
+- Build Size: 100*100*100 mm
+- Footprint: 280*260*320 mm
+- Net Weight: 2.7kg (6 lbs.)
+- Extrusion Type: Direct Drive / Reverse Bowden
+- Bed Leveling: Manual for 12V version, Inductive Probe for 24V version
+- Firmware: Klipper (recommended), will also run Marlin
 
-	- Build Size: 100*100*100 mm
-	- Footprint: 280*260*320 mm
-	- Net Weight: 2.7kg (6 lbs.)
-	- Extrusion Type: Direct Drive / Reverse Bowden
-	- Bed Leveling: Manual for 12V version, Inductive Probe for 24V version
-	- Firmware: Klipper (recommended), will also run Marlin
+### To Do List
+As this is still a work in progress, there are several things still left to do:
+- Cable Managment
+- Design new print head assembly to allow for a inductive probe
+
 
 ## Build Tips
 There are 2 versions of the Y Carriage to choose from. 
-- 12v Y Carriage 
-	- Use this if you are going to reuse a RepRap PCB heated bed
-- 24v Y Carriage 
-	- Use this if you are going to source your own MIC6 heat bed plate
+- 12v Y Carriage - Use this if you are going to reuse a RepRap PCB heated bed
+- 24v Y Carriage - Use this if you are going to source your own MIC6 heat bed plate
 
 There are 2 versions of the Bed Plate to choose from. 
-- Bed Plate
-	- This is the recommended bed plate for the 24v Y Carriage
-- Bed Plate with stops
-	- This is version has two M2 threaded holes in the rear to help align the flex plate quickly.
-	- UNTESTED! Use at your own risk.
+- Bed Plate - This is the recommended bed plate for the 24v Y Carriage
+- Bed Plate with stops - This is version has two M2 threaded holes in the rear to help align the flex plate quickly. UNTESTED! Use at your own risk.
 
 Warming! Not all 2040 rails are made the same. If you source 2040 rails that have holes too large for M5 screws, please use the STLs in the "M6_Rails" folder, as they are designed for the larger M6 screw size.
 
@@ -40,8 +40,7 @@ There are several user mod STLs in the [Mods](https://github.com/armourcraft/Tee
 ### Contributers
 If you would like to contribute to the development of this project, please let me know. I'm no perfessional engineer, so I could use all the help I can get.
 
-
-### License & Copywrite
+#### License & Copywrite
 The above information is provided under GNU GPLv3. More information can be found in the License file.
 
 Copywrite © 2021 Corey Blake, Armour Craft LLC
