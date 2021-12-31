@@ -4,7 +4,7 @@ This is a repository of community user mods for Teensy. All mods are welcomed.
 
 R‌EMINDER! Please be sure to update this README when uploading your new mod!
 
-## Table structure
+## Table
 
 Update the table below with information about your mod:
 - Your username
