@@ -21,6 +21,8 @@ As this is still a work in progress, there are several things still left to do:
 
 
 ## Build Tips
+The only file that needs supports is the X Idler Mount. All other files do not need supports.
+
 There are 2 versions of the Y Carriage to choose from. 
 - 12v Y Carriage - Use this if you are going to reuse a RepRap PCB heated bed
 - 24v Y Carriage - Use this if you are going to source your own MIC6 heat bed plate
