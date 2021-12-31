@@ -10,7 +10,7 @@ This printer can be run on 24V using the recommended BTT SKR Mini E3 v3, or it c
 
 	- Build Size: 100*100*100 mm
 	- Footprint: 280*260*320 mm
-	- Net Weight: kg
+	- Net Weight: 2.7kg (6 lbs.)
 	- Extrusion Type: Direct Drive / Reverse Bowden
 	- Bed Leveling: Manual for 12V version, Inductive Probe for 24V version
 	- Firmware: Klipper (recommended), will also run Marlin
