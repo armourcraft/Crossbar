@@ -18,7 +18,7 @@ This printer can be run on 24V using the recommended BTT SKR Mini E3 v3, or it c
 As this is still a work in progress, there are several things still left to do:
 - Cable Managment
 - Design new print head assembly to allow for a inductive probe
-
+- Enclosure
 
 ## Build Tips
 The only file that needs supports is the X Idler Mount. All other files do not need supports.
