@@ -419,7 +419,7 @@ AcDbCircle
 10
 54
 20
-54
+-54
 30
 0
 40
@@ -441,7 +441,7 @@ AcDbEntity
 100
 AcDbCircle
 10
-54
+-54
 20
 -54
 30
@@ -467,7 +467,7 @@ AcDbCircle
 10
 -54
 20
--54
+54
 30
 0
 40
@@ -489,7 +489,7 @@ AcDbEntity
 100
 AcDbCircle
 10
--54
+54
 20
 54
 30
