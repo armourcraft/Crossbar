@@ -1,7 +1,5 @@
 # Teensy
-
 <img alt="Teensy v1" width="600px" src="Images/Assembly.png" />
-<img alt="Teensy v1" width="100px" src="Images/Assembly_Front.png" /><img alt="Teensy v1" width="100px" src="Images/Assembly_Right.png" /><img alt="Teensy v1" width="100px" src="Images/Assembly_Top.png" /><img alt="Teensy v1" width="100px" src="Images/Assembly_Back.png" /><img alt="Teensy v1" width="100px" src="Images/Assembly_Left.png" /><img alt="Teensy v1" width="100px" src="Images/Assembly_Bottom.png" />
 
 The Teensy is a microscaled cantilever 3D printer with a build volume just big enough to print most things without taking up valuable desk space. If you like small printers, this is the next printer for you!
 
