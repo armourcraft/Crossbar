@@ -1,6 +1,6 @@
-# Teensy User Mods
+# Crossbar User Mods
 
-This is a repository of community user mods for Teensy. All mods are welcomed.
+This is a repository of community user mods for Crossbar. All mods are welcomed.
 
 R‌EMINDER! Please be sure to update this README when uploading your new mod!
 
