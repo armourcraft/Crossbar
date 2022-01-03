@@ -1,4 +1,4 @@
-# Teensy Images
+# Crossbar Images
 
 <img alt="Teensy v1 Assembly" width="800px" src="Assembly.png" />
 <img alt="Teensy v1 Assembly Front" width="800px" src="Assembly_Front.png" />
