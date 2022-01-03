@@ -47,4 +47,4 @@ If you would like to contribute to the development of this project, please let m
 
 ## License & Copywrite
 The above information is provided under GNU GPLv3. More information can be found in the License file.\
-Copywrite © 2021 Corey Blake, Armour Craft LLC
+© 2021 Corey Blake, Armour Craft LLC
