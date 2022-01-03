@@ -1,8 +1,7 @@
 # Teensy
+### This project is still under development!
 
 [<img alt="Teensy v1" width="800px" src="Images/Cover_Img.png" />](https://github.com/armourcraft/Teensy/tree/main/Images)
-
-### This project is still under development!
 
 The Teensy is a microscaled cantilever 3D printer with a build volume just big enough to print most things without taking up valuable desk space. If you like small printers, this is the next printer for you!
 
