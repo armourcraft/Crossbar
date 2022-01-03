@@ -4,7 +4,7 @@
 
 [<img alt="Teensy v1" width="800px" src="Images/Cover_Img.png" />](https://github.com/armourcraft/Teensy/tree/main/Images)
 
-The Teensy is a microscaled cantilever 3D printer with a build volume just big enough to print most things without taking up valuable desk space. If you like small printers, this is the next printer for you!
+The Teensy is a microscale cantilever 3D printer with a build volume just big enough to print most things without taking up valuable desk space. If you like small printers, this is the next printer for you!
 
 This printer can be run on 24V using the recommended BTT SKR Mini E3 v3, or it can be run on 12V using an old trusty Ramps 1.4. Either way, it will perform great. It's really up to you which direction you want to go.
 
