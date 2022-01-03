@@ -33,7 +33,7 @@ There are 2 versions of the Bed Plate to choose from.
 1. Bed Plate - This is the recommended bed plate for the 24v Y Carriage
 2. Bed Plate with stops - This is version has two M2 threaded holes in the rear to help align the flex plate quickly. UNTESTED! Use at your own risk.
 
-Warming! Not all 2040 rails are made the same. If you source 2040 rails that have holes too large for M5 screws, please use the STLs in the "M6_Rails" folder, as they are designed for the larger M6 screw size.
+Warming! Not all 2040 rails are made the same. If you source 2040 rails that have holes too large for M5 screws, please use the STLs in the "M6_Rails" folder, as they are designed for the larger M6 screw size. The length of the screw will remain the same.
 
 ### BOM
 The BOM is currently under development and will be released here once finished.
