@@ -9,7 +9,7 @@ The Teensy is a microscale cantilever 3D printer with a build volume just big en
 This printer can be run on 24V using the recommended BTT SKR Mini E3 v3, or it can be run on 12V using an old trusty Ramps 1.4. Either way, it will perform great. It's really up to you which direction you want to go.
 
 ## Features
-- Build Size: 100mm x 100mm x 100mm
+- Build Size: 120mm x 120mm x 120mm
 - Footprint: 280mm x 260mm x 320mm
 - Net Weight: 2.7kg (6 lbs.)
 - Extrusion Type: Direct Drive / Reverse Bowden
