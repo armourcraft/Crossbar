@@ -24,7 +24,7 @@ As this is still a work in progress, there are several things still left to do:
 
 ## Build Tips
 Print Settings are as follows:
-- FDM Material: ABS recommended. but PETG will work too 
+- FDM Material: ABS recommended, but PETG will work too 
 - Layer Height: 0.2mm
 - Extrusion Width: Forced 0.4mm
 - Infill Percentage: 40% or more recommended
