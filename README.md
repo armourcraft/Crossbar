@@ -6,7 +6,7 @@
 
 The Crossbar is a microscale cantilever 3D printer with a build volume just big enough to print most things without taking up valuable desk space. If you like small printers, this is the next printer for you!
 
-This printer can be run on 24V using the recommended BTT SKR Pico, or it can be run on 12V using an old trusty Ramps 1.4. Either way, it will perform great. It's really up to you which direction you want to go.
+This printer can be run on 24V using the recommended BTT SKR Pico running Klipper, or it can be run on any old 12V board running Marlin. Either way, it will perform great. It's really up to you which direction you want to go.
 
 ## Features
 - Build Size: 120mm x 120mm x 120mm
@@ -20,7 +20,6 @@ This printer can be run on 24V using the recommended BTT SKR Pico, or it can be 
 As this is still a work in progress, there are several things still left to do:
 - Electronics Bay
 - Cable Managment
-- Design new print head assembly to allow for a inductive probe
 - Enclosure (maybe?)
 
 ### Build Tips
