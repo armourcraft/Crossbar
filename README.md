@@ -22,7 +22,7 @@ As this is still a work in progress, there are several things still left to do:
 - Cable Managment
 - Enclosure (maybe?)
 
-### Build Tips
+## Build Tips
 Print Settings are as follows:
 - FDM Material: ABS recommended. but PETG will work too 
 - Layer Height: 0.2mm
@@ -44,6 +44,6 @@ Once the community around this printer grows, I'm sure there will be several use
 ## Contributers
 If you would like to contribute to the development of this project, please let me know. I'm no perfessional engineer, so I could use all the help I can get.
 
-## License & Copywrite
+## License & Copyright
 The above information is provided under GNU GPLv3. More information can be found in the License file.\
 Copyright © 2021 Armour Craft LLC
