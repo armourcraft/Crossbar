@@ -23,15 +23,23 @@ As this is still a work in progress, there are several things still left to do:
 - Design new print head assembly to allow for a inductive probe
 - Enclosure (maybe?)
 
-## Build Tips
-The only file that needs supports is the X Idler Mount. All other files do not need supports.
+### Build Tips
+Print Settings are as follows:
+- FDM Material: ABS recommended. but PETG will work too 
+- Layer Height: 0.2mm
+- Extrusion Width: Forced 0.4mm
+- Infill Percentage: 40% or more recommended
+- Infill Type: Gyroid or Grid (others might work as well, experiment)
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+- Supports: The only file that needs supports is the X Idler Mount. All other files do not need supports.
 
 Warming! Not all 2040 rails are made the same. If you source 2040 rails that have holes too large for M5 screws, please use the STLs in the "M6_Rails" folder, as they are designed for the larger M6 screw size. The length of the screw will remain the same.
 
 ### BOM
 The BOM is currently under development and will be released here once finished.
 
-## User Mods
+### User Mods
 Once the community around this printer grows, I'm sure there will be several users modding it. Those user mods will be located in the [Mods](https://github.com/armourcraft/Crossbar/tree/main/Mods) directory.
 
 ## Contributers
