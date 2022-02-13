@@ -36,7 +36,7 @@ Print Settings are as follows:
 Warming! Not all 2040 rails are made the same. If you source 2040 rails that have holes too large for M5 screws, please use the STLs in the "M6_Rails" folder, as they are designed for the larger M6 screw size. The length of the screw will remain the same.
 
 ### BOM
-The BOM is currently under development and will be released here once finished.
+The BOM is still under development but is available on Google Sheets: [Crossbar BOM](https://docs.google.com/spreadsheets/d/1aKsuqmhp_ut951kFGuT7j_JkIwcnRpiDSIrPFC0hjxc/edit?usp=sharing)
 
 ### User Mods
 Once the community around this printer grows, I'm sure there will be several users modding it. Those user mods will be located in the [Mods](https://github.com/armourcraft/Crossbar/tree/main/Mods) directory.
