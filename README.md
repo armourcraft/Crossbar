@@ -18,7 +18,6 @@ This printer can be run on 24V using the recommended BTT SKR Pico running Klippe
 
 ### To Do List
 As this is still a work in progress, there are several things still left to do:
-- Electronics Bay
 - Cable Managment
 - Reduce number of part/fasteners
 - Enclosure (maybe?)
