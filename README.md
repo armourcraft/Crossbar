@@ -46,4 +46,5 @@ If you would like to contribute to the development of this project, please let m
 
 ## License & Copyright
 The above information is provided under GNU GPLv3. More information can be found in the License file.\
-Copyright © 2021 Armour Craft LLC
+Copyright © 2021 Armour Craft LLC\
+Thank to the Voron Team for the design of the MiniAB toolhead.
