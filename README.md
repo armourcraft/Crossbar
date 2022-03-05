@@ -1,8 +1,6 @@
 # Crossbar
 
-```htm
-### <span style="color: red">This project is still under development!</span>
-```
+### This project is still under development!
 
 [<img alt="Crossbar v1" width="100%" src="Images/Cover_Img.png" />](https://github.com/armourcraft/Crossbar/tree/main/Images/ "Teensy Images")
 
