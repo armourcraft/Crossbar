@@ -1,6 +1,6 @@
 # Crossbar
 
-### This project is the Beta Testing phase! Please let me know if you would like to help. Thanks.
+### This project is in the Beta Testing phase! Please let me know if you would like to help. Thanks.
 
 [<img alt="Crossbar v1" width="100%" src="Images/Cover_Img.png" />](https://github.com/armourcraft/Crossbar/tree/main/Images/ "Teensy Images")
 
