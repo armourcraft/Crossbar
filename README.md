@@ -1,6 +1,6 @@
 # Crossbar
 
-### This project is still under development!
+### This project is the Beta Testing phase! Please let me know if you would like to help. Thanks.
 
 [<img alt="Crossbar v1" width="100%" src="Images/Cover_Img.png" />](https://github.com/armourcraft/Crossbar/tree/main/Images/ "Teensy Images")
 
@@ -18,7 +18,6 @@ This printer can be run on 24V using the recommended BTT SKR Pico running Klippe
 
 ### To Do List
 As this is still a work in progress, there are several things still left to do:
-- Cable Managment
 - Reduce Part/Fastener Count (blind joints)
 - Enclosure (maybe?)
 
