@@ -2,7 +2,7 @@
 
 ### This project is in the Beta Testing phase! Please let me know if you would like to help. Thanks.
 
-[<img alt="Crossbar v1" width="100%" src="Images/Cover_Img.png" />](https://github.com/armourcraft/Crossbar/tree/main/Images/ "Teensy Images")
+[<img alt="Crossbar v1" width="100%" src="Images/Cover_Img.jpg" />](https://github.com/armourcraft/Crossbar/tree/main/Images/ "Crossbar Images")
 
 The Crossbar is a microscale cantilever 3D printer with a build volume just big enough to print most things without taking up valuable desk space. If you like small printers, this is the next printer for you!
 
