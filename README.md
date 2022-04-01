@@ -14,7 +14,7 @@ This printer can be run on 24V using the recommended BTT SKR Pico running Klippe
 - Net Weight: 2.7kg (6 lbs.)
 - Extrusion Type: Direct Drive / Reverse Bowden
 - Bed Leveling: Inductive Probe for 24V version
-- Firmware: Klipper (*recommended*), will also run Marlin
+- Firmware: [Klipper](https://www.klipper3d.org/) (*recommended*), will also run [Marlin](https://marlinfw.org/)
 
 ### To Do List
 As this is still a work in progress, there are several things still left to do:
